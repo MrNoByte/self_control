@@ -1,3 +1,3 @@
 # Self Control
 
-** This project to promote self control while using mac for dopamine detox **
+**This project to promote self control while using mac for dopamine detox**
